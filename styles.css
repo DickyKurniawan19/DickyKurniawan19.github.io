@@ -547,7 +547,7 @@ nav {
   }
 }
 
-@media (width < 600px) {
+@media (width < 300px) {
   .nav__links {
     display: none;
   }
